@@ -1,4 +1,4 @@
-const { create } = require('xmlbuilder2')
+const { create } = require('@mastuff77/xmlbuilder2')
 
 /**
  * @typedef {{}} MergeStringsOptions
